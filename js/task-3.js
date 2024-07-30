@@ -33,5 +33,3 @@ builder.padEnd( "^" );
 builder.padBoth( "=" );
  console.log (builder.getValue()); // "=^.^="
 
-
-
